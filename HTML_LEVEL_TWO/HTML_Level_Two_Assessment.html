@@ -13,21 +13,21 @@
 
             <p>
             <label for="fname">First Name:</label>
-            <input type="text" name="fname" id="fname" placeholder="First Name">
+            <input type="text" name="fname" id="fname" placeholder="First Name" required>
 
             <label for="lname">Last Name:</label>
-            <input type="text" name="lname" id="lname" placeholder="Last Name">
+            <input type="text" name="lname" id="lname" placeholder="Last Name" required>
             </p>
         
             <p>
                 <label for="email">Email:</label>
-                <input type="email" name="email" id="email" placeholder="name@example.com">
+                <input type="email" name="email" id="email" placeholder="name@example.com" required>
 
                 <label for="passwd">Password:</label>
-                <input type="password" name="passwd" id="passwd">
+                <input type="password" name="passwd" id="passwd" required>
             </p>
 
-            <p>
+            <p> 
                 <p>Are you over the age of 18?</p>
                 <label for="yes">Yes</label>
                 <input type="radio" name="opt" id="yes" value="Yes">
@@ -37,7 +37,7 @@
 
             <p>
                 <p>Do you have a Credit Card or PayPal?</p>
-                <select name="res" id="">
+                <select name="res" id="" required>
                     <option value="Credit Card">Credit Card</option>
                     <option value="PayPal">PayPal</option>
                 </select>

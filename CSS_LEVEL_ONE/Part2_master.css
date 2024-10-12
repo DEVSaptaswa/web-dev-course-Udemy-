@@ -1,0 +1,20 @@
+body{
+    background-image: url(https://images.wallpapersden.com/image/wxl-carina-nebula-4k-james-webb-space-telescope_88732.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: thick;
+    border-style: groove;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background-color: red;
+    color: black;
+}

@@ -1,0 +1,43 @@
+body{
+    background-color: skyblue;
+}
+
+h1{
+    border: 1px solid black;
+}
+
+h3{
+    color: deeppink;
+}
+
+.firstDiv{
+    background-color: yellow;
+}
+
+#list{
+    color: deeppink;
+    text-decoration: overline;
+}
+
+a{
+    color: red;
+}
+
+a:visited{
+    color: blue;
+}
+
+#textbox{
+    border: 5px solid gray;
+    height: 400px;
+    width: 800px;
+}
+
+input{
+    border: 2px solid darkred;
+}
+
+.exit{
+    background-color: blue;
+    border: 4px dashed yellow;
+}

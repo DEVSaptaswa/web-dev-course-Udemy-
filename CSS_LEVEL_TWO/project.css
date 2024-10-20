@@ -1,0 +1,34 @@
+h1{
+    font-family: "Dancing Script", cursive;
+    text-align: center;
+}
+
+.art{
+    margin: auto;
+}
+
+td{
+    height: 300px;
+    width: 150px;
+    border: 4px solid white;
+}
+
+#one{
+    background-color: #F9DBBD;
+}
+
+#two{
+    background-color: #FFA5AB;
+}
+
+#three{
+    background-color: #DA627D;
+}
+
+#four{
+    background-color: #A53860;
+}
+
+#five{
+    background-color: #450920;
+}
